@@ -1,0 +1,31 @@
+AquaWatch W7 - Random Forest
+============================
+
+Accuracy  : 0.9950
+Precision : 0.9286
+Recall    : 1.0000
+F1 Score  : 0.9630
+OOB Score : 0.9325
+OOB Error : 0.0675
+
+Confusion Matrix
+TN = 186
+FP = 1
+FN = 0
+TP = 13
+
+Top Features
+                     Feature  Importance
+     water_storage_level_pct    0.331075
+                 rainfall_mm    0.309568
+                humidity_pct    0.171061
+         water_quality_index    0.047780
+               temperature_C    0.043522
+            population_users    0.035916
+previous_day_water_demand_kL    0.033636
+                 zone_Zone_C    0.007486
+                 zone_Zone_A    0.006658
+                 zone_Zone_D    0.003784
+         peak_hour_indicator    0.003751
+           holiday_indicator    0.003723
+                 zone_Zone_B    0.002038
