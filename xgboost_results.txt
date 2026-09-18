@@ -1,0 +1,30 @@
+AquaWatch W8 - XGBoost Champion
+================================
+
+Accuracy  : 0.9900
+Precision : 1.0000
+Recall    : 0.8333
+F1 Score  : 0.9091
+ROC-AUC   : 1.0000
+
+Confusion Matrix
+TN = 94
+FP = 0
+FN = 1
+TP = 5
+
+Top XGBoost Features
+                     Feature  Importance
+                 rainfall_mm    0.285288
+     water_storage_level_pct    0.277150
+                humidity_pct    0.142474
+                 zone_Zone_A    0.073887
+               temperature_C    0.056250
+                 zone_Zone_C    0.052902
+            population_users    0.043090
+         peak_hour_indicator    0.033029
+         water_quality_index    0.021478
+previous_day_water_demand_kL    0.014451
+           holiday_indicator    0.000000
+                 zone_Zone_B    0.000000
+                 zone_Zone_D    0.000000
