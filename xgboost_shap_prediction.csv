@@ -1,0 +1,14 @@
+Feature,SHAP_Value,Feature_Value,Absolute_SHAP
+water_storage_level_pct,-2.685992,96.77,2.685992
+rainfall_mm,-2.2674801,4.68,2.2674801
+humidity_pct,2.2266808,82.44,2.2266808
+previous_day_water_demand_kL,0.20976052,442.5,0.20976052
+temperature_C,0.19781879,34.63,0.19781879
+population_users,-0.059728626,143254,0.059728626
+zone_Zone_A,-0.05685238,True,0.05685238
+water_quality_index,-0.051639378,80.63,0.051639378
+zone_Zone_C,-0.024043445,False,0.024043445
+peak_hour_indicator,0.0051764627,0,0.0051764627
+holiday_indicator,0.0,0,0.0
+zone_Zone_B,0.0,False,0.0
+zone_Zone_D,0.0,False,0.0
