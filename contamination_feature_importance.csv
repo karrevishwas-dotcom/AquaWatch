@@ -1,0 +1,17 @@
+feature,importance
+rainfall_mm,0.530821240091369
+water_storage_level_pct,0.349681269448948
+humidity_pct,0.07410834792569893
+water_quality_index,0.02340730025147285
+population_users,0.02198184228251089
+previous_day_water_demand_kl,2.970741943450872e-16
+holiday_indicator,0.0
+temperature_c,0.0
+peak_hour_indicator,0.0
+hour,0.0
+day_of_week,0.0
+month,0.0
+zone_Zone_A,0.0
+zone_Zone_B,0.0
+zone_Zone_C,0.0
+zone_Zone_D,0.0
